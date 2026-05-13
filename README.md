@@ -152,7 +152,9 @@ With only 3.05% of customers ever returning, even doubling retention to 6% would
 I'm **[Igor Nunes]**, a data analyst based in Brazil focused on turning raw data into clear business decisions. Currently available for freelance projects in analytics, dashboarding, and data pipelines.
 
 📧 **Email:** igorrochanunes85@gmail.com
-💼 **LinkedIn:** [https://www.linkedin.com/in/igor-rocha-nunes]
+
+💼 **LinkedIn:** [https://www.linkedin.com/in/igor-rocha-nunes-9b7375303/]
+
 🐙 **GitHub:** [www.github.com/igorrocha-tech]
 
 ---
