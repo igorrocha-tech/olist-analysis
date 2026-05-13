@@ -153,9 +153,9 @@ I'm **Igor Nunes**, a data analyst based in Brazil focused on turning raw data i
 
 📧 **Email:** igorrochanunes85@gmail.com
 
-💼 **LinkedIn:** [https://www.linkedin.com/in/igor-rocha-nunes-9b7375303/]
+💼 **LinkedIn:** [igor-rocha-nunes](https://www.linkedin.com/in/igor-rocha-nunes-9b7375303/)
 
-🐙 **GitHub:** [www.github.com/igorrocha-tech]
+🐙 **GitHub:** [igorrocha-tech](https://github.com/igorrocha-tech)
 
 ---
 
