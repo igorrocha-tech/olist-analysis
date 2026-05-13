@@ -1,0 +1,25 @@
+# Data files - too large for GitHub
+data/raw/*.csv
+data/processed/*.csv
+*.db
+olist.db
+olist
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.pyc
+
+# Power BI temp files
+*.pbix.tmp
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDE
+.vscode/
+.idea/
